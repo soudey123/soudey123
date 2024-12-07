@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Soumava Dey</h1>
-<h3 align="center">A Data Scientist from Houston, USA</h3>
+<h3 align="center">A Data Scientist from Denver, Colorado, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soudey123&label=Profile%20views&color=0e75b6&style=flat" alt="soudey123" /> </p>
 
-- 🔭 I’m currently working on **Melanoma detection using AI**
+- 🔭 I’m currently working on **Building AI Agents**
 
-- 🌱 I’m currently learning **Sports Analytics**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Computer Vision project**
 
-- 🤝 I’m looking for help with **Natural Language Processing**
+- 🤝 I’m looking for help with **Computer Vision Use Cases**
 
 - 💬 Ask me about **Data Science**
 
