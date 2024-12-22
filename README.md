@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building AI Agents**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **NASA Open Science Initiatives**
 
 - 👯 I’m looking to collaborate on **Computer Vision project**
 
