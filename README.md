@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NASA Open Science Initiatives**
 
-- 👯 I’m looking to collaborate on **Computer Vision project**
+- 👯 I’m looking to collaborate on **AI Agent project**
 
-- 🤝 I’m looking for help with **Computer Vision Use Cases**
+- 🤝 I’m looking for help with **AI Agent Use Cases**
 
 - 💬 Ask me about **Data Science**
 
