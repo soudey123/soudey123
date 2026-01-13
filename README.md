@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumava Dey</h1>
-<h3 align="center">A Data Scientist from Denver, Colorado, USA</h3>
+<h3 align="center">A Data & AI Leader from Denver, Colorado, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soudey123&label=Profile%20views&color=0e75b6&style=flat" alt="soudey123" /> </p>
 
